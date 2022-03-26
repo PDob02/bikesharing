@@ -1,3 +1,6 @@
+201908-citibike-tripdata.csv.zip
+201908-citibike-tripdata.csv/
+bikesharing_scrubbed.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
