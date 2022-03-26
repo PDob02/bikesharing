@@ -7,5 +7,5 @@ Summary: Provide a high-level summary of the results and two additional visualiz
 
 For this module we were tasked with measuring Citi Bike Sharing usage. 
 
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/patrick.dobry/viz/Deliverable3Challenge/CitiBikeChallengeStory?publish=yes)
+[link to dashboard](https://github.com/PDob02/bikesharing/blob/main/Weekday_Hours.png)
